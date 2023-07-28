@@ -11,7 +11,7 @@ For out future update we plan to add consumer support. With this, users can acce
 <li> <b>package-lock.json</b> - contains the version details of dependencies. </li>
 
 
-### Tech-Stack:BACKEND
+### Tech-Stack
 1. react
 2. Flask APIs
 3. MySQL Database
